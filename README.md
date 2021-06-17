@@ -5,7 +5,7 @@ Created a simple code for Hand Tracking application that genrates fireball illus
 
 2. When the two hand's midpoint are apart by less than 'hand_distance_threshold' a small fireball is displayed, whose size and position are vary depending on the distance between the two hands and the mid-point between those two.
 
-#---------------------------------------------------
+#------------------------------------------------------------------------------------------------------
 
 Dependencies:-
 
